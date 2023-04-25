@@ -1,0 +1,13 @@
+Description
+This task is related to Natural Language Processing. Create a Deep Learning model such that the modal should predict
+the next occurring word when given a sentence.
+
+
+Functional Requirements
+● Any accuracy above 75% is acceptable.
+● Use any predefined Deep Learning Neural Network (RNN, ANN, etc.).
+
+
+Resources
+1. Dataset - You may use this dataset, or any other text dataset of your choice. Another option is to create your
+own dataset from multiple available datasets and work on it.
